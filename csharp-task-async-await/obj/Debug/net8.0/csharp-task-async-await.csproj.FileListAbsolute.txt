@@ -1,0 +1,15 @@
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\obj\Debug\net8.0\csharp-task-async-await.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\obj\Debug\net8.0\csharp-task-async-await.AssemblyInfoInputs.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\obj\Debug\net8.0\csharp-task-async-await.AssemblyInfo.cs
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\obj\Debug\net8.0\csharp-task-async-await.csproj.CoreCompileInputs.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\obj\Debug\net8.0\csharp-task-async-await.sourcelink.json
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\bin\Debug\net8.0\csharp-task-async-await.exe
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\bin\Debug\net8.0\csharp-task-async-await.deps.json
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\bin\Debug\net8.0\csharp-task-async-await.runtimeconfig.json
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\bin\Debug\net8.0\csharp-task-async-await.dll
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\bin\Debug\net8.0\csharp-task-async-await.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\obj\Debug\net8.0\csharp-task-async-await.dll
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\obj\Debug\net8.0\refint\csharp-task-async-await.dll
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\obj\Debug\net8.0\csharp-task-async-await.pdb
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\obj\Debug\net8.0\csharp-task-async-await.genruntimeconfig.cache
+C:\DIEGO\GoogleDriveOlProfesur\sviluppo\csharp-task-async-await\csharp-task-async-await\obj\Debug\net8.0\ref\csharp-task-async-await.dll
